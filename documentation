@@ -1,0 +1,12 @@
+
+
+    Command #1
+>> composer require darkaonline/l5-swagger
+
+    Command #2
+>> php artisan vendor:publish --provider "L5Swagger\L5SwaggerServiceProvider"
+
+chatgpt write: I want the complete section of @OA\Post() for user profile
+
+please generate annotation in same pattern for Profile Api
+I will pass Authorization token value in header to access this protected api
